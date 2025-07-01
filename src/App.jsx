@@ -27,7 +27,7 @@ function App() {
 
         </div>
         <div className='absolute w-full flex flex-col justify-center items-center top-72'>
-          <h2 className='fuente-cochon text-sm'>Mi primer añito</h2>
+          <h2 className='fuente-cochon text-sm'>Mi segundo añito</h2>
           <div className='flex justify-center gap-5 items-center w-full mt-2 px-8'>
             <h2 className='fuente-fecha text-xs px-4'>Sabado</h2>
             <img src="./date.png" className='w-1/5' alt="" />
