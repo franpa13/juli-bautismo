@@ -28,8 +28,8 @@ function App() {
         </div>
         <div className='absolute w-full flex flex-col justify-center items-center top-72'>
           <h2 className='fuente-cochon text-sm'>Mi 2do añito</h2>
-          <div className='flex justify-center gap-5 items-center w-full mt-2 px-8'>
-            <h2 className='fuente-fecha text-xs px-4'>Sabado</h2>
+          <div className='flex  justify-center gap-5 items-center w-full mt-2 px-8'>
+            <h2 className='fuente-fecha text-xs '>Sábado</h2>
             <img src="./date.png" className='w-1/5' alt="" />
             <h2 className='fuente-fecha text-xs'> 17 hs</h2>
           </div>
@@ -43,7 +43,7 @@ function App() {
               alt=""
             />
           </div>
-          <a className='flex justify-center items-center gap-1' href="https://maps.app.goo.gl/BD7Fad54diSEbqsf6">
+          <a className='flex justify-center items-center gap-1' href="">
 
             <h2 className='fuente-fechaDos '> Casino subof Gendarmeria Guatambu y Aguay</h2>
           </a>
