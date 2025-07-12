@@ -27,11 +27,11 @@ function App() {
 
         </div>
         <div className='absolute w-full flex flex-col justify-center items-center top-72'>
-          <h2 className='fuente-cochon text-sm'>Mi segundo añito</h2>
+          <h2 className='fuente-cochon text-sm'>Mi 2do añito</h2>
           <div className='flex justify-center gap-5 items-center w-full mt-2 px-8'>
             <h2 className='fuente-fecha text-xs px-4'>Sabado</h2>
             <img src="./date.png" className='w-1/5' alt="" />
-            <h2 className='fuente-fecha text-xs'>De 12 a 18</h2>
+            <h2 className='fuente-fecha text-xs'> 17 hs</h2>
           </div>
           <div className='flex justify-center gap-5 items-start w-full mt-0 px-8'>
             <img src="./palo.png" className='w-1/3' alt="" />
@@ -45,8 +45,7 @@ function App() {
           </div>
           <a className='flex justify-center items-center gap-1' href="https://maps.app.goo.gl/BD7Fad54diSEbqsf6">
 
-            <h2 className='fuente-fecha '> Calle 114, Nro 2355, XIS</h2>
-            <GiClick className='text-xl text-[#92400e]'></GiClick>
+            <h2 className='fuente-fechaDos '> Casino subof Gendarmeria Guatambu y Aguay</h2>
           </a>
           <div className='flex justify-center   items-start  '>
             <img className='w-1/4 animate-fly-circle-other' src="./abeja-abajo.png" alt="" />
@@ -67,30 +66,30 @@ function App() {
 
         </div>
 
-        <div className="fixed bottom-15 right-4 z-20 flex justify-center items-center">
+        {/* <div className="fixed bottom-15 right-4 z-20 flex justify-center items-center">
           <div className="honey-circle">
 
-            {/* Abejitas */}
+          
             <div className="bees-container">
-              {/* Abejita 1 */}
+       
               <div className="bee bee-1">
                 <div className="bee-body"></div>
                 <div className="bee-wing"></div>
                 <div className="bee-stripe"></div>
               </div>
 
-              {/* Abejita 2 */}
+  
               <div className="bee bee-2">
                 <div className="bee-body"></div>
                 <div className="bee-wing"></div>
                 <div className="bee-stripe"></div>
               </div>
 
-              {/* Rayas de miel (patrón de fondo) */}
+
               <div className="honey-lines"></div>
             </div>
 
-            {/* Texto */}
+
             <a href="">
 
               <h2 className="confirmation-text">
@@ -100,7 +99,7 @@ function App() {
             </a>
 
           </div>
-        </div>
+        </div> */}
 
         {/* <div className=""> 
           <img

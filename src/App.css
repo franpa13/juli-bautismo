@@ -54,7 +54,12 @@
   text-shadow: 2px 2px 0 white;
 }
 
-
+.fuente-fechaDos {
+  font-family: 'LePetitCochon', cursive;
+  font-size: 22px;
+  color: #d87237;
+  text-shadow: 2px 2px 0 white;
+}
 @keyframes spin-slow {
   from {
     transform: rotate(0deg);
